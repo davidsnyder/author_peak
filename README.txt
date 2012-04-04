@@ -1,0 +1,36 @@
+h1. Author Peak
+
+h3. Compiled lists of the greatest fiction works of all time and their authors
+
+The first step in answering the simple question: when in their lives are humans most productive?
+It's a loaded question, and when you consider productivity versus creativity the answer becomes even more subjective.
+
+To avoid trying to answer the creativity or productivity questions, I chose to focus on a list of around 400 of the 'classics'. 
+
+The lists are largely skewed towards the Western world, and I had to leave some older novels out where the birthdates of the authors were unknown.
+
+h3. Sources
+
+http://www.modernlibrary.com/top-100/100-best-novels/ - Modern Library - both user and board lists 
+http://www.modernlibrary.com/top-100/radcliffes-rival-100-best-novels-list/ - Radcliff 100
+http://www.buzzle.com/articles/100best-books.html - Buzzle 100
+http://en.wikipedia.org/wiki/The_100_Best_Books_of_All_Time - samlet hos de norske Bokklubbene i 2002
+http://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction
+
+h3. Notes:
+
+I removed the following works because I could not find firm birthdates or publishing dates.
+
+The Iliad - Homer
+The Odyssey - Homer
+Masnavi - Rumi
+Bostan - Saadi
+
+In the case of a collection of works or multiple parts to a single work, I typically chose the latest date
+
+A Dance To The Music Of Time series - I took the publication date of the first novel "A Question of Upbringing" since it was a 25 year span.
+U.S.A. Trilogy - I took the publication date of the Harcourt Brace collected publication 
+Bone comic - Publish date of the first collection "Out From Boneville"
+The Studs Lonigan Trilogy, James T. Farrell - date of the last in the trilogy "Judgement Day"
+
+The scrape was largely automated, so some dates may not be the original publication dates.  I will fix errors as I notice them. 
