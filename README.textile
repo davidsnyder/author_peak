@@ -32,7 +32,7 @@ A Dance To The Music Of Time series - I took the publication date of the first n
 U.S.A. Trilogy - I took the publication date of the Harcourt Brace collected publication 
 Bone comic - Publish date of the first collection "Out From Boneville"
 The Studs Lonigan Trilogy, James T. Farrell - date of the last in the trilogy "Judgement Day"
-The Lord Of The Rings	J.R.R. Tolkien	1955
+The Lord Of The Rings	J.R.R. Tolkien	1955 - Return of the King was published in October 1955
 
 The scrape was largely automated, so some dates may not be the original publication dates.  I will fix errors as I notice them.
 
