@@ -32,5 +32,12 @@ A Dance To The Music Of Time series - I took the publication date of the first n
 U.S.A. Trilogy - I took the publication date of the Harcourt Brace collected publication 
 Bone comic - Publish date of the first collection "Out From Boneville"
 The Studs Lonigan Trilogy, James T. Farrell - date of the last in the trilogy "Judgement Day"
+The Lord Of The Rings	J.R.R. Tolkien	1955
 
-The scrape was largely automated, so some dates may not be the original publication dates.  I will fix errors as I notice them. 
+The scrape was largely automated, so some dates may not be the original publication dates.  I will fix errors as I notice them.
+
+Posthumous publication alterations:
+
+A Death in the Family	James Agee	1955         - Agee died in 1955, though the novel was not published until 1957.
+A Confederacy of Dunces	John Kennedy Toole	1969 - Dunces was not published until 1980, but Toole died in 1969.
+
